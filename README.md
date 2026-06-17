@@ -212,3 +212,88 @@ C++ is a powerful, high-performance language that gives developers *direct contr
 ---
 
 For further learning, explore the comprehensive tutorials at [Learn C++](https://www.learncpp.com/) or the documentation on [cplusplus.com](https://cplusplus.com/doc/tutorial/).
+
+# Ruby Programming Language
+
+## Overview
+
+**Ruby** is a dynamic, open-source, object-oriented programming language designed and developed by **Yukihiro "Matz" Matsumoto** in **1995** in Japan. Matz created Ruby with a clear philosophy in mind — to make programming **fun and productive** for developers. Ruby follows the **Principle of Least Astonishment (POLA)**, meaning the language behaves in a way that minimizes confusion and surprises for its users. Everything in Ruby is an **object**, including numbers, strings, and even `nil`, making it a purely object-oriented language. Ruby gained massive global popularity with the release of the [Ruby on Rails](https://rubyonrails.org/) web framework in 2004, which revolutionized **rapid web application development**.
+
+---
+
+## Key Features
+
+- **Pure Object-Oriented** — Every value and data structure in Ruby is an object with its own methods and properties.
+- **Elegant & Readable Syntax** — Ruby reads almost like plain English, prioritizing **developer happiness** above all else.
+- **Dynamic & Flexible** — Supports dynamic typing, open classes, and metaprogramming for powerful customization.
+- **Garbage Collection** — Automatic memory management so developers can focus on logic, not memory.
+- **Blocks, Procs & Lambdas** — First-class support for **closures** enables clean and expressive functional-style code.
+- **Rich Standard Library** — Ships with extensive built-in libraries covering file handling, networking, and more.
+- **Thriving Gem Ecosystem** — Thousands of open-source libraries (called **Gems**) available via [RubyGems](https://rubygems.org/).
+
+---
+
+## Popular Use Cases
+
+1. **Web Development** — The iconic [Ruby on Rails](https://rubyonrails.org/) framework powers sites like **GitHub**, **Shopify**, and **Airbnb**.
+2. **Scripting & Automation** — Ruby's concise syntax makes it excellent for writing automation and system scripts.
+3. **Prototyping** — Rapidly build and test ideas with minimal boilerplate code.
+4. **Data Processing** — Parse, transform, and manipulate data with ease using Ruby's expressive syntax.
+5. **DevOps & Tooling** — Popular tools like [Chef](https://www.chef.io/) and [Vagrant](https://www.vagrantup.com/) are built with Ruby.
+
+---
+
+## Getting Started
+
+To begin your Ruby journey, download the latest version from the official website at [ruby-lang.org](https://www.ruby-lang.org/). Ruby comes with an interactive shell called **IRB (Interactive Ruby)**, which lets you experiment with code in real time.
+
+```ruby
+# A classic first Ruby program
+puts "Hello, World!"
+
+# Everything is an object in Ruby
+puts 42.class        # => Integer
+puts "Ruby".upcase   # => RUBY
+puts [1, 2, 3].map { |n| n * 2 }  # => [2, 4, 6]
+
+# Elegant method definition
+def greet(name)
+  "Welcome to Ruby, #{name}! Enjoy the ride."
+end
+
+puts greet("Developer")
+```
+
+---
+
+## Popular Ruby Frameworks & Tools
+
+| Name | Type | Use Case |
+|------|------|----------|
+| [Ruby on Rails](https://rubyonrails.org/) | Framework | Full-Stack Web Apps |
+| [Sinatra](https://sinatrarb.com/) | Framework | Lightweight Web Apps |
+| [RSpec](https://rspec.info/) | Library | Testing & BDD |
+| [Devise](https://github.com/heartcombo/devise) | Gem | Authentication |
+| [Sidekiq](https://sidekiq.org/) | Tool | Background Job Processing |
+
+---
+
+## Notable Companies Using Ruby
+
+- **GitHub** — The world's largest code hosting platform is built on Ruby on Rails.
+- **Shopify** — One of the largest e-commerce platforms powers its core with Ruby.
+- **Airbnb** — Built its early infrastructure using Ruby on Rails.
+- **Twitch** — Uses Ruby for several of its backend services.
+
+---
+
+## Why Choose Ruby?
+
+> *"I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy."* — Yukihiro Matsumoto
+
+Ruby's commitment to **developer happiness**, combined with its **elegant syntax** and the power of the [Ruby on Rails](https://rubyonrails.org/) framework, makes it a compelling choice for web developers and software engineers alike. If you value **clean, expressive, and joyful code**, Ruby is the language for you.
+
+---
+
+*For further learning, explore the [official Ruby documentation](https://www.ruby-lang.org/en/documentation/) or try beginner-friendly tutorials on [The Odin Project](https://www.theodinproject.com/).*
+

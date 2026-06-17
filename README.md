@@ -297,3 +297,9 @@ Ruby's commitment to **developer happiness**, combined with its **elegant syntax
 
 *For further learning, explore the [official Ruby documentation](https://www.ruby-lang.org/en/documentation/) or try beginner-friendly tutorials on [The Odin Project](https://www.theodinproject.com/).*
 
+ ## Resources
+
+- https://developer.mozilla.org
+- https://www.freecodecamp.org
+- https://www.w3schools.com
+- https://docs.github.com

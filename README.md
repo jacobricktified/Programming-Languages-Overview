@@ -1,6 +1,6 @@
 # Programming Languages Overview
 
-A collaborative guide by Jacob Gichira Mbuco, John Chibini Matayo, Brian Omondi Odhiambo,Daniel murangiri mwiti, Daniel Alum
+A collaborative guide by Jacob Gichira Mbuco - @jacobricktified, Brian Omondi Odhiambo - @brianomondi185-cyber, Daniel Alum - @Daniel-Alum
 ## Table of Contents
 - [Introduction](#introduction)
 - [Python](#python)

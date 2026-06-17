@@ -196,7 +196,19 @@ JavaScript's *dominance on the web, combined with its ever-growing ecosystem and
 
 For further learning, explore the [official MDN JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) or try interactive lessons on [freeCodeCamp](https://www.freecodecamp.org/).
 ## Java
-<!-- Team Member 3 writes this section -->
+
+> "Write once, run anywhere." – Sun Microsystems (Java's Core Philosophy)
+
+Java's *unmatched portability*, combined with its robust object-oriented structure and massive presence in **_enterprise software_**, makes it a cornerstone language for developers worldwide. Whether you are building powerful backend systems, handling big data, or developing native Android applications, Java provides the stability and scalability to handle it all.
+
+---
+
+For further learning, explore the [official Oracle Java Tutorials](https://docs.oracle.com/javase/tutorial/) or try interactive coding challenges on [w3schools Java 
 
 ## C++
-<!-- Team Member 4 writes this section -->
+> "C++ makes it harder to shoot yourself in the foot, but when you do, it blows your whole leg off." – Bjarne Stroustrup (Creator of C++)
+C++ is a powerful, high-performance language that gives developers *direct control over hardware and memory*. Its unmatched speed makes it the industry standard for **_game development_**, operating systems, and resource-intensive applications. When you need to build software where every millisecond counts, C++ is the ultimate tool for the job.
+
+---
+
+For further learning, explore the comprehensive tutorials at [Learn C++](https://www.learncpp.com/) or the documentation on [cplusplus.com](https://cplusplus.com/doc/tutorial/).

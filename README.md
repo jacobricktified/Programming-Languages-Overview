@@ -7,6 +7,7 @@ A collaborative guide by Jacob Gichira Mbuco, John Chibini Matayo, Brian Omondi 
 - [JavaScript](#javascript)
 - [Java](#java)
 - [C++](#c)
+- [Ruby](#ruby)
 
 ## Introduction
 A programming language is a formal language used to communicate instructions to a computer. These instructions tell the computer how to perform specific tasks such as calculations, data processing, web development, mobile app creation, and automation.
